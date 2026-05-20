@@ -33,7 +33,7 @@ https://t.me/NJULUG_Blogroll
 
 > 有些 Blog 太久没更新或失效了，怎么办？
 
-联系[@Do1e i@do1e.cn](mailto:i@do1e.cn)进行删除，同时我们也会通过 Github Action 的自动更新中的 Log 来判断是否失效。
+联系[@Do1e i@do1e.com](mailto:i@do1e.com)进行删除，同时我们也会通过 Github Action 的自动更新中的 Log 来判断是否失效。
 
 
 ## 添加/编辑方式
@@ -44,7 +44,7 @@ https://t.me/NJULUG_Blogroll
 
 如果无 RSS 源，可以使用 `---` 代替，聚合页面将不会抓取，仅展示HTML链接。
 
-已毕业无法填写可邮箱联系[@Do1e i@do1e.cn](mailto:i@do1e.cn)。
+已毕业无法填写可邮箱联系[@Do1e i@do1e.com](mailto:i@do1e.com)。
 
 ## Lists
 
