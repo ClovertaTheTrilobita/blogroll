@@ -7,7 +7,7 @@ const parser = new Parser();
 const RSS = require('rss');
 
 // 相关配置
-const opmlXmlContentTitle = 'NJU-LUG Blogroll';
+const opmlXmlContentTitle = 'HNU Blogroll';
 const readmeMdPath = './README.md';
 const opmlJsonPath = './web/src/assets/opml.json';
 const dataJsonPath = './web/src/assets/data.json';
@@ -104,15 +104,15 @@ fs.writeFileSync(opmlXmlPath, opmlXmlContent, { encoding: 'utf-8' });
 
   // 生成 RSS 文件
   var feed = new RSS({
-    title: 'NJU-LUG Blogroll',
-    description: '南京大学 Linux User Group 收集同学和校友们的 Blog',
-    feed_url: 'https://blogroll.njulug.org/rss.xml',
-    site_url: 'https://blogroll.njulug.org/',
-    image_url: 'https://blogroll.njulug.org/assets/logo.56c0d74c.png',
-    docs: 'https://blogroll.njulug.org/',
-    managingEditor: 'NJU-LUG',
-    webMaster: 'NJU-LUG',
-    copyright: '2022 NJU-LUG',
+    title: 'HNU Blogroll',
+    description: '海南大学 东坡Lakside 收集同学和校友们的 Blog',
+    feed_url: 'https://blogroll.dongpolakeside.com/rss.xml',
+    site_url: 'https://blogroll.dongpolakeside.com/',
+    image_url: 'https://blogroll.dongpolakeside.com/assets/logo.56c0d74c.png',
+    docs: 'https://blogroll.dongpolakeside.com/',
+    managingEditor: 'HNU',
+    webMaster: 'HNU',
+    copyright: '2022 Dongpo Lakeside',
     language: 'cn',
     pubDate: dataJson[0].pubDate,
     ttl: '60',

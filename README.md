@@ -38,9 +38,9 @@ https://t.me/NJULUG_Blogroll
 
 ## 添加/编辑方式
 
-填写表单：[https://table.nju.edu.cn/dtable/forms/b7e232c1-b52b-43ad-8058-3400594cba5a/](https://table.nju.edu.cn/dtable/forms/b7e232c1-b52b-43ad-8058-3400594cba5a/)
+填写表单：[https://cloud.seatable.io/dtable/forms/5fbb202c-bb78-4215-bd36-6393ade8a083/](https://cloud.seatable.io/dtable/forms/5fbb202c-bb78-4215-bd36-6393ade8a083/)
 
-编辑表单：[https://table.nju.edu.cn/dtable/collection-tables/36161685-5d74-4d48-928f-b6b40174da28](https://table.nju.edu.cn/dtable/collection-tables/36161685-5d74-4d48-928f-b6b40174da28)。如果是之前在README中填写的，可重新[填写表单](https://table.nju.edu.cn/dtable/forms/b7e232c1-b52b-43ad-8058-3400594cba5a/)，保证`Name`字段一致即可。
+编辑表单：[https://cloud.seatable.io/dtable/links/7a3d36eedffb4c81b12d](https://cloud.seatable.io/dtable/links/7a3d36eedffb4c81b12d)。
 
 如果无 RSS 源，可以使用 `---` 代替，聚合页面将不会抓取，仅展示HTML链接。
 
