@@ -1,11 +1,9 @@
-account_id = "3b09f89f682c11bd981ad76c1cf508e4"
+main = "workers-site/index.js"
 name = "blogroll"
-type = "webpack"
-workers_dev = true
-# route = "blogroll.njulug.org/*"
-# zone_id = "cd50d75141e3c6095863f20a0edfc0e7"
+
+account_id = "3b09f89f682c11bd981ad76c1cf508e4"
 compatibility_date = "2024-11-19"
+workers_dev = true
 
 [site]
 bucket = "./web/dist"
-entry-point = "workers-site"

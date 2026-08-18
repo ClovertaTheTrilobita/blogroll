@@ -1,13 +1,15 @@
-# NJU-LUG Blogroll
+# HNU 东坡 Lakeside Blogroll
 
-南京大学 [Linux User Group](https://git.nju.edu.cn/nju-lug/lug-introduction) 收集的同学们的 Blog。
+海南大学 [东坡 Lakeside](https://dongpolakeside.com) 收集的同学们的 Blog。
+
+Fork自 [南京大学LUG-Blogroll](https://github.com/nju-lug/blogroll)。
 
 
 ## 聚合页面
 
-[聚合页面](https://blogroll.njulug.org/) 自动聚合这个 `README.md` 文件的表格中的所有 RSS 源，并以用户友好的方式显示出来。
+[聚合页面](https://blogroll.donpolakeside.com/) 自动聚合这个 `README.md` 文件的表格中的所有 RSS 源，并以用户友好的方式显示出来。
 
-欢迎在线浏览：https://blogroll.njulug.org/
+欢迎在线浏览：https://blogroll.donpolakeside.com/
 
 聚合页面使用 Vue 框架编写，每天定时 0 点和 12 点，会通过 GitHub Action 自动集成和部署到 Cloudflare 上。
 
@@ -16,24 +18,20 @@
 
 ## 聚合 RSS 订阅
 
-我们也制作了一个聚合 RSS，欢迎来订阅：
+南大的大佬们也制作了一个聚合 RSS，欢迎来订阅：
 
-https://blogroll.njulug.org/rss.xml
-
-使用该RSS订阅的Telegram频道：
-
-https://t.me/NJULUG_Blogroll
+https://blogroll.donpolakeside.com/rss.xml
 
 
 ## FAQ
 
 > 萌新也可以加 Blog 列表么？
 
-能。只要是南京大学的同学和校友都欢迎。
+能。只要是海南大学的同学和校友都欢迎。
 
 > 有些 Blog 太久没更新或失效了，怎么办？
 
-联系[@Do1e i@do1e.com](mailto:i@do1e.com)进行删除，同时我们也会通过 Github Action 的自动更新中的 Log 来判断是否失效。
+联系[@Cloverta cloverta@petalmail.com](mailto:cloverta@petalmail.com)进行删除，同时我们也会通过 Github Action 的自动更新中的 Log 来判断是否失效。
 
 
 ## 添加/编辑方式
@@ -55,7 +53,7 @@ https://t.me/NJULUG_Blogroll
 
 ## OPML
 
-`opml.xml` 地址：https://blogroll.njulug.org/opml.xml
+`opml.xml` 地址：https://blogroll.dongpolakeside.com/opml.xml
 
 你可以使用 `opml.xml` 文件在 Inoreader 里持续订阅，或在 Feedly 下载之后导入。
 
@@ -67,5 +65,6 @@ https://t.me/NJULUG_Blogroll
 ## See Also
 
 - https://github.com/tuna/blogroll
+- https://github.com/nju-lug/blogroll
 - https://github.com/NUAA-Open-Source/BlogRoll
 - https://github.com/timqian/chinese-independent-blogs
