@@ -9,10 +9,10 @@ import opmlJson from './assets/opml.json'
   <header id="header">
     <div id="header-inner">
       <span id="logo-left">
-        <img id="logo" src="./assets/logo.png" alt="Logo" />
-        <span id="logo-text">NJU-LUG Blogroll</span>
+        <img id="logo" src="./assets/logo.webp" alt="Logo" />
+        <span id="logo-text">HNU Blogroll</span>
       </span>
-      <a id="logo-right" target="_blank" href="https://github.com/nju-lug/blogroll">
+      <a id="logo-right" target="_blank" href="https://github.com/ClovertaTheTrilobita/blogroll">
         <img id="logo-github" src="./assets/github.png" alt="Logo" />
         <span id="logo-text">GitHub</span>
       </a>
